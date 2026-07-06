@@ -99,6 +99,22 @@ I travel the digital kingdoms building secure, elegant systems and cinematic exp
 
 <hr style="border:none; height:1px; background:linear-gradient(90deg, transparent, #4b2e83, transparent);" />
 
+## 👾 Play Game With Me
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryasatya-source/Aryasatya-source/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryasatya-source/Aryasatya-source/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aryasatya-source/Aryasatya-source/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Aryasatya-source/Aryasatya-source/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+
+<hr style="border:none; height:1px; background:linear-gradient(90deg, transparent, #4b2e83, transparent);" />
+
 <!-- CONTACT / SOCIAL -->
 ## ✉️ Message the Court
 <p align="center">
@@ -110,6 +126,8 @@ I travel the digital kingdoms building secure, elegant systems and cinematic exp
 <hr style="border:none; height:1px; background:linear-gradient(90deg, transparent, #D4AF37, transparent);" />
 
 <p align="center" style="color:#bfb8ff;">May your commits be clean, your builds be swift, and your logic unassailable. ⚔️</p>
+
+
 
 <!-- FOOTER -->
 <p align="center" style="margin-top:6px; color:#8f89a8; font-size:12px;">Theme: Royal / Medieval Fantasy • Colors: deep blue / dark purple / gold • Crafted with ❤️</p>
